@@ -1,0 +1,6 @@
+{
+  "name": "ETOMODA",
+  "description": "Premium minimalist Apple uslubidagi kiyim-kechak do'koni.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
